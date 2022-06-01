@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aurigan
-- 👀 I’m interested in ... RPA
+- 👀 I’m interested in ... AI
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...hynk1240@gmail.com
